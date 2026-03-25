@@ -1,5 +1,5 @@
 version = 1
-revision = 2
+revision = 3
 requires-python = ">=3.11"
 resolution-markers = [
     "python_full_version >= '3.12' and sys_platform == 'linux'",
@@ -168,7 +168,7 @@ wheels = [
 [[package]]
 name = "cs336-basics"
 version = "1.0.3"
-source = { editable = "cs336-basics" }
+source = { editable = "cs336_basics" }
 dependencies = [
     { name = "einops" },
     { name = "einx" },
@@ -231,7 +231,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "cs336-basics", editable = "cs336-basics" },
+    { name = "cs336-basics", editable = "cs336_basics" },
     { name = "fasttext", specifier = ">=0.9.3" },
     { name = "fastwarc", specifier = ">=0.15.2" },
     { name = "mmh3", specifier = ">=5.1.0" },
