@@ -1,0 +1,533 @@
+
+--- Example 1 (EMAIL) ---
+Original: ...встар  096-535-55-99
+
+E-mail: bambus@i.ua
+
+Розничная торговля (магазин)...
+Masked:   ...встар  096-535-55-99
+
+E-mail: |||EMAIL_ADDRESS|||
+
+Розничная торговля (магазин)...
+Original: ...акс
++380(372)-501-527
+
+E-mail:bambus@i.ua
+
+Skype: bambus.cv.ua
+Бамбус
+0...
+Masked:   ...акс
++380(372)-501-527
+
+E-mail:|||EMAIL_ADDRESS|||
+
+Skype: bambus.cv.ua
+Бамбус
+0...
+
+--- Example 2 (EMAIL) ---
+Original: ...lanation here.
+
+Contact info
+
+philothea.photini@yahoo.com
+
+Followers
+
+Blog Archive
+
+  •...
+Masked:   ...lanation here.
+
+Contact info
+
+|||EMAIL_ADDRESS|||
+
+Followers
+
+Blog Archive
+
+  •...
+
+--- Example 3 (PHONE) ---
+Original: ...onales
+    • Ficha País
+    • 1197996785_Ley 376, Regimen Presupuestar...
+Masked:   ...onales
+    • Ficha País
+    • |||PHONE_NUMBER|||_Ley 376, Regimen Presupuestar...
+
+--- Example 4 (PHONE) ---
+Original: ...跟隨黃金勢頭
+新興市場 ETF
+最大成交額
+ＳＰＤＲ金
+2,379.000
+02840
++12.000 (0.507%)
+立即查看
+新興市場 E...
+Masked:   ...跟隨黃金勢頭
+新興市場 ETF
+最大成交額
+ＳＰＤＲ金
+2,|||PHONE_NUMBER|||0
++12.000 (0.507%)
+立即查看
+新興市場 E...
+
+--- Example 5 (PHONE) ---
+Original: ...ctor Pl, New York, NY, 10280
+
++1 (218) 654-2022
+
+bank@banknearme.info
+
+
+
+Plea...
+Masked:   ...ctor Pl, New York, NY, 10280
+
+|||PHONE_NUMBER|||
+
+bank@banknearme.info
+
+
+
+Plea...
+
+--- Example 6 (EMAIL) ---
+Original: ...ork City, NY, USA
++1234567890
+contact@domain.com
+1234567890
+© 2022 3RTE | Popu...
+Masked:   ...ork City, NY, USA
++1234567890
+|||EMAIL_ADDRESS|||
+1234567890
+© 2022 3RTE | Popu...
+
+--- Example 7 (PHONE) ---
+Original: ...reet, New York City, NY, USA
++1234567890
+contact@domain.com
+1234567890...
+Masked:   ...reet, New York City, NY, USA
++|||PHONE_NUMBER|||
+contact@domain.com
+|||PHONE_N...
+Original: ...1234567890
+contact@domain.com
+1234567890
+© 2022 3RTE | PopularFX Theme...
+Masked:   ..._NUMBER|||
+contact@domain.com
+|||PHONE_NUMBER|||
+© 2022 3RTE | PopularFX Theme...
+
+--- Example 8 (PHONE) ---
+Original: ...(xún)熱線(xiàn)：
+        
+      15700088148
+      
+      
+      
+      
+ ...
+Masked:   ...(xún)熱線(xiàn)：
+        
+      |||PHONE_NUMBER|||
+      
+      
+      
+      
+ ...
+Original: ...   
+                
+      郵箱：3320069488@qq.com
+      
+               ...
+Masked:   ...   
+                
+      郵箱：|||PHONE_NUMBER|||@qq.com
+      
+               ...
+Original: ...                
+      傳真：86-0571-86450345
+      
+                
+    ...
+Masked:   ...                
+      傳真：86-0|||PHONE_NUMBER|||5
+      
+                
+    ...
+Original: ...
+
+
+
+       
+      浙公網(wǎng)安備 33010402001893號
+       
+      
+
+ 
+  
+
+
+
+...
+Masked:   ...
+
+
+
+       
+      浙公網(wǎng)安備 |||PHONE_NUMBER|||1893號
+       
+      
+
+ 
+  
+
+
+
+...
+
+--- Example 9 (PHONE) ---
+Original: ...华社记者 任超 摄
+【纠错】
+[责任编辑: 韩磊]
+﻿ ﻿
+0100700600100000000000000111000...
+Masked:   ...华社记者 任超 摄
+【纠错】
+[责任编辑: 韩磊]
+﻿ ﻿
+|||PHONE_NUMBER||||||PHONE_NUMBER||||||PHONE_NUMBER||||||PHONE_NUMBER|||1...
+
+--- Example 10 (PHONE) ---
+Original: ...로 11 국토교통부 항공정책실 / help desk (044-201-4229)
+Family Site
+  • 국토교통부
+  • 서울...
+Masked:   ...로 11 국토교통부 항공정책실 / help desk (|||PHONE_NUMBER|||)
+Family Site
+  • 국토교통부
+  • 서울...
+
+--- Example 11 (PHONE) ---
+Original: ...6号-2  广播电视节目制作许可证06725号 京公网安备 11010802023428号...
+Masked:   ...6号-2  广播电视节目制作许可证06725号 京公网安备 |||PHONE_NUMBER|||428号...
+
+--- Example 12 (EMAIL) ---
+Original: ...Koniec treści
++48 785 776 007 biuro@agrotraktor.pl
+Agrotraktor – traktory i masz...
+Masked:   ...Koniec treści
++48 785 776 007 |||EMAIL_ADDRESS|||
+Agrotraktor – traktory i masz...
+Original: ...zedaż maszyn:
++48 785 776 007
+biuro@agrotraktor.pl
+Sprzedaż części 24h:
++48 781 ...
+Masked:   ...zedaż maszyn:
++48 785 776 007
+|||EMAIL_ADDRESS|||
+Sprzedaż części 24h:
++48 781 ...
+Original: ...ż części 24h:
++48 781 110 444
+magazyn@agrotraktor.pl
+Serwis:
++48 697 916 007
+serwi...
+Masked:   ...ż części 24h:
++48 781 110 444
+|||EMAIL_ADDRESS|||
+Serwis:
++48 697 916 007
+|||EM...
+Original: ...or.pl
+Serwis:
++48 697 916 007
+serwis@agrotraktor.pl
+Przedstawiciel handlowy w reg...
+Masked:   ...SS|||
+Serwis:
++48 697 916 007
+|||EMAIL_ADDRESS|||
+Przedstawiciel handlowy w reg...
+Original: ...y w regionie:
++48 722 226 777
+handel@agrotraktor.pl
+
+Dane firmy
+
+CENTRUM SPRZEDAŻ...
+Masked:   ...y w regionie:
++48 722 226 777
+|||EMAIL_ADDRESS|||
+
+Dane firmy
+
+CENTRUM SPRZEDAŻ...
+
+--- Example 13 (EMAIL) ---
+Original: ...    +48 668 093 038
+    
+    biuro@amg24.pl
+    
+    stoork.pl
+    • O f...
+Masked:   ...    +48 668 093 038
+    
+    |||EMAIL_ADDRESS|||
+    
+    stoork.pl
+    • O f...
+
+--- Example 14 (PHONE) ---
+Original: ...06168)]　[京ICP证000000号]　[京公网安备：110102003042]　[京ICP证000000号]...
+Masked:   ...06168)]　[京ICP证000000号]　[京公网安备：|||PHONE_NUMBER|||2]　[京ICP证000000号]...
+
+--- Example 15 (PHONE) ---
+Original: ...						
+              	
+							18623896844
+              
+							13264445812
+              
+							18612707474
+              
+							7*14小時(...
+Masked:   ...						
+              	
+							|||PHONE_NUMBER|||
+              
+							|||PHONE_NUMBER|||
+              
+							|||PHONE_NUMBER|||
+              
+							7*14小時(...
+Original: ...攝影器材有限公司
+		
+	
+	
+	 豫公網(wǎng)安備 41080402000028號
+	
+	
+	Power by Dr.bin 
+	
+...
+Masked:   ...攝影器材有限公司
+		
+	
+	
+	 豫公網(wǎng)安備 |||PHONE_NUMBER|||0028號
+	
+	
+	Power by Dr.bin 
+	
+...
+
+--- Example 16 (PHONE) ---
+Original: ...e posta sipariЕџi gelin
+  • 0,7809106151
+  • Une mariГ©e par correspon...
+Masked:   ...e posta sipariЕџi gelin
+  • 0,|||PHONE_NUMBER|||
+  • Une mariГ©e par correspon...
+Original: ...iГ©e par correspondance
+  • 0,6149696679
+  • catГЎlogo de novias por c...
+Masked:   ...iГ©e par correspondance
+  • 0,|||PHONE_NUMBER|||
+  • catГЎlogo de novias por c...
+Original: ... casinoly
+  • casino770
+  • 0,7561184477
+  • postorder brudens datings...
+Masked:   ... casinoly
+  • casino770
+  • 0,|||PHONE_NUMBER|||
+  • postorder brudens datings...
+Original: ... betwinnerbrasil.com.br
+  • 0,2063953747
+  • uncategorised
+  • bd-baji...
+Masked:   ... betwinnerbrasil.com.br
+  • 0,|||PHONE_NUMBER|||
+  • uncategorised
+  • bd-baji...
+Original: ...stordre brud datingside
+  • 0,4198858265
+  • best site mail order brid...
+Masked:   ...stordre brud datingside
+  • 0,|||PHONE_NUMBER|||
+  • best site mail order brid...
+Original: ...orsiamen verkkosivustoa
+  • 0,2553001222
+  • postorder brud legit webb...
+Masked:   ...orsiamen verkkosivustoa
+  • 0,|||PHONE_NUMBER|||
+  • postorder brud legit webb...
+Original: ...Bestellung Brautwebsite
+  • 0,2387933706
+  • bÃ¤sta postorder brud web...
+Masked:   ...Bestellung Brautwebsite
+  • 0,|||PHONE_NUMBER|||
+  • bÃ¤sta postorder brud web...
+Original: ...ine Versandbestellbraut
+  • 0,7112235837
+  • topp ordre brud nettsted
+...
+Masked:   ...ine Versandbestellbraut
+  • 0,|||PHONE_NUMBER|||
+  • topp ordre brud nettsted
+...
+Original: ...rispondenza per davvero
+  • 0,9644652404
+  • Mail bestellen Brautinfor...
+Masked:   ...rispondenza per davvero
+  • 0,|||PHONE_NUMBER|||
+  • Mail bestellen Brautinfor...
+Original: ...Bestellung Brautservice
+  • 0,2804900367
+  • Echte Versandungsbraut
+  ...
+Masked:   ...Bestellung Brautservice
+  • 0,|||PHONE_NUMBER|||
+  • Echte Versandungsbraut
+  ...
+Original: ...iГ©e par correspondance
+  • 0,3340957518
+  • heiГџeste Mail -Bestellun...
+Masked:   ...iГ©e par correspondance
+  • 0,|||PHONE_NUMBER|||
+  • heiГџeste Mail -Bestellun...
+Original: ...a se sono giГ  sposato?
+  • 0,4506442384
+  • 1winRussia
+  • Wie man ei...
+Masked:   ...a se sono giГ  sposato?
+  • 0,|||PHONE_NUMBER|||
+  • 1winRussia
+  • Wie man ei...
+Original: ... postordre brud agences
+  • 0,9321319595
+  • hvordan du gjГёr postordr...
+Masked:   ... postordre brud agences
+  • 0,|||PHONE_NUMBER|||
+  • hvordan du gjГёr postordr...
+Original: ...pondance est-elle sГ»re
+  • 0,1029501158
+  • come funziona la sposa pe...
+Masked:   ...pondance est-elle sГ»re
+  • 0,|||PHONE_NUMBER|||
+  • come funziona la sposa pe...
+Original: ...llbraut
+  • 0,912108187
+  • 0,6729050496
+  • E-Mail-Bestellung Braut
+ ...
+Masked:   ...llbraut
+  • 0,912108187
+  • 0,|||PHONE_NUMBER|||
+  • E-Mail-Bestellung Braut
+ ...
+Original: ...ar una novia por correo
+  • 0,8228144132
+  • how does mail order bride...
+Masked:   ...ar una novia por correo
+  • 0,|||PHONE_NUMBER|||
+  • how does mail order bride...
+Original: ...mail order bride reddit
+  • 0,8287754326
+  • leggit mail order bride s...
+Masked:   ...mail order bride reddit
+  • 0,|||PHONE_NUMBER|||
+  • leggit mail order bride s...
+Original: ...n Braut Reales Standort
+  • 0,3849145009
+  • Post in der Bestellung Br...
+Masked:   ...n Braut Reales Standort
+  • 0,|||PHONE_NUMBER|||
+  • Post in der Bestellung Br...
+Original: ... -Bestellung Braut Site
+  • 0,9468831357
+  • Mail -Bestellung Brautser...
+Masked:   ... -Bestellung Braut Site
+  • 0,|||PHONE_NUMBER|||
+  • Mail -Bestellung Brautser...
+
+--- Example 17 (PHONE) ---
+Original: ...ترم خصوصيتك
+  • Tel
+    • +86-13311891208
+  • Email
+    • robertwang@pi...
+Masked:   ...ترم خصوصيتك
+  • Tel
+    • +86-|||PHONE_NUMBER|||
+  • Email
+    • robertwang@pi...
+Original: ...lywood.com
+  • whatsApp
+    • 8613311891208
+  • Skype
+    • روبرت وانغ...
+Masked:   ...lywood.com
+  • whatsApp
+    • |||PHONE_NUMBER|||208
+  • Skype
+    • روبرت وانغ...
+Original: ...يسيكا يو
+
+واتساب/وي تشات: +86-15038759821
+بريد إلكتروني: saler05@pianop...
+Masked:   ...يسيكا يو
+
+واتساب/وي تشات: +86-|||PHONE_NUMBER|||
+بريد إلكتروني: saler05@pianop...
+Original: ...
+إز وانغ
+
+واتساب/وي تشات: +86-13966455579
+بريد إلكتروني: op@pianoplywoo...
+Masked:   ...
+إز وانغ
+
+واتساب/وي تشات: +86-|||PHONE_NUMBER|||
+بريد إلكتروني: op@pianoplywoo...
+
+--- Example 18 (EMAIL) ---
+Original: ...TC
+Support: 8895593424
+Email: info@ashishtradecentre.com
+Shop By Department
+  • Sales
+...
+Masked:   ...TC
+Support: 8895593424
+Email: |||EMAIL_ADDRESS|||
+Shop By Department
+  • Sales
+...
+
+--- Example 19 (PHONE) ---
+Original: ...
+bwmeta1.element.ekon-element-000046452671
+
+Zgłoszenie zostało wysłane...
+Masked:   ...
+bwmeta1.element.ekon-element-|||PHONE_NUMBER|||71
+
+Zgłoszenie zostało wysłane...
+
+--- Example 20 (PHONE) ---
+Original: ...idgator.net/file/80a1ad9b9f65a1115320553c9bbd7bf2/5156share.com.JinXYJ...
+Masked:   ...idgator.net/file/80a1ad9b9f65a|||PHONE_NUMBER|||c9bbd7bf2/5156share.com.JinXYJ...
