@@ -1,0 +1,5 @@
+Training complete
+Wiki examples: 2494
+CC examples: 2494
+Saved model: data/quality_classifier.bin
+

@@ -2,7 +2,7 @@
 
 # Define the target directory
 SOURCE_DIR="/data/classifiers"
-ASSETS_DIR="$(pwd)/cs336_data/assets"
+ASSETS_DIR="$(pwd)/data"
 
 # Function to handle each file
 handle_file() {

@@ -1,0 +1,125 @@
+Quality classifier evaluation samples
+CC candidates (not in train): 540
+Wiki candidates (EN + filtered out by gopher, not in train): 173
+Selected: 10 CC + 10 Wiki
+
+--- Example 1 ---
+Source: wiki
+Quality Prediction: wiki (1.0000)
+Text:
+6000 HIKMAT SHARQUIYAH: Looking at a Muslim's responsibility towards others... Skip to content  LEADERBOARD AD  Connect with your audience through trusted journalism. Advertise with Us  Support Journalism  JOURNALISM  Support Journalism SIGN IN SUPPORT SUBSCRIBE ADVERTISE   • Fact Check   • Media Impact   • Books   • Fact Check   • Media Impact   • Books Facebook Instagram Youtube X-twitter Tiktok Reddit   • Top Stories   • News   • Business   • Mindaviews   • Arts & Culture   • Photo of the Day...
+
+--- Example 2 ---
+Source: cc
+Quality Prediction: cc (1.0000)
+Text:
+會員登入 加入會員 業績排行 分鐘數排行 已消費會員數 平均分鐘數 會員評價 上線時間 聊天人緣 包廂線上人數 一對多點數 一對一點數 網站新人 上線狀態排序 網站推薦 已審核本人照 談情說愛 成人視訊 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 好消息！9月9日起，免費 視訊聊天室正式開跑囉！ 歡迎哥哥、妹妹一起來~ ^^ 恭喜三月份消費排行前十名會員 獲得免費點數~ No.1 LV75699** -贈點10,000 點 No.2 LV28160** -贈點9,000 點 No.3 LV72247** -贈點8,000 點 No.4 LV52777** -贈點7,000 點 No.5 LV65749** -贈點6,000 點 No.6 LV68540** -贈點5,000 點 No.7 LV37566** -贈點4,000 點 No.8 LV71975** -贈點3,000 點 No.9 LV25850** -贈點2,000 點 No.10 LV16730** -贈點1,000 點 蜜櫻   (夏夢盈盈)   最近上線時間:   免費聊天 進入包廂...
+
+--- Example 3 ---
+Source: cc
+Quality Prediction: cc (1.0000)
+Text:
+Androbiz | Androidアプリのレビューサイト  Androbiz（アンドロビズ）では、「面白いAndroidアプリ」、「便利なAndroidアプリ」などなど、実際に使用してレビューしています。 レビューページには、QRコードがありアンドロイド端末で読み取ることでGoogle Play（アンドロイドマーケット）のインストールページに移動できます。PC版Google Play（アンドロイドマーケット）へのリンクもありますので、PC上からアプリをインストールすることもできます。   • Home   • ゲーム   • ビジネス   • ツール   • エンタメ   • 学習・教育 Home  >> プレスリリース >> アップアレイ、世界最大のEdTechスタートアップコンペ GESAの日本予選で「AI賞」を受賞  英語学習に特化したモバイル向けのアプリケーションの開発を行うappArray株式会社（本社：東京都港区、代表取締役社長：立石剛史、以下：アップアレイ）は本日、2018年11月4日に東京で開催された、優れたEdTech（教育 X テクノロジー）のスタートアップ企業を...
+
+--- Example 4 ---
+Source: wiki
+Quality Prediction: wiki (0.9586)
+Text:
+8000 Wayback Machine  Ask the publishers to restore access to 500,000+ books.  Internet Archive logo A line drawing of the Internet Archive headquarters building façade. Web icon An illustration of a computer application window Wayback Machine Texts icon An illustration of an open book. Texts Video icon An illustration of two cells of a film strip. Video Audio icon An illustration of an audio speaker. Audio Software icon An illustration of a 3.5" floppy disk. Software Images icon An illustration...
+
+--- Example 5 ---
+Source: wiki
+Quality Prediction: cc (0.9999)
+Text:
+PrimePages   • 5000 Largest     5000 Largest Top 20 Primes Prover Bios Search Primes   • FAQ   • Curios!   • Glossary   1. Home   2. Notes   3. Proofs   4. Even Perfect  Characterizing all even perfect numbers  By Chris Caldwell  Over 2300 years ago Euclid proved that If 2k-1 is a prime number (it would be a Mersenne prime), then 2k-1(2k-1) is a perfect number. A few hundred years ago Euler proved the converse (that every even perfect number has this form).  It is still unknown if there are any ...
+
+--- Example 6 ---
+Source: cc
+Quality Prediction: cc (1.0000)
+Text:
+Index of /ubuntu/pool/universe/libt/libtie-cache-lru-perl  [ICO]NameLast modifiedSize [PARENTDIR]Parent Directory  - [ ]libtie-cache-lru-perl_20150301-3.debian.tar.xz2022-11-06 03:07 1.8K [TXT]libtie-cache-lru-perl_20150301-3.dsc2022-11-06 03:07 1.9K [ ]libtie-cache-lru-perl_20150301-3_all.deb2022-11-06 04:34 15K [ ]libtie-cache-lru-perl_20150301.orig.tar.gz2022-05-13 07:20 139K Apache Server at gl.archive.ubuntu.com Port 80...
+
+--- Example 7 ---
+Source: cc
+Quality Prediction: cc (1.0000)
+Text:
+Lymphdrainage und Massage Baden-Baden      • Sample Page  Hello world!  Verfasst von  admin  in  Uncategorized  Welcome to WordPress. This is your first post. Edit or delete it, then start writing!  Kommentare  Eine Antwort zu „Hello world!“    1. Avatar von A WordPress Commenter     Februar 6, 2025     A WordPress Commenter      Hi, this is a comment.     To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.     Commenter avatars come...
+
+--- Example 8 ---
+Source: wiki
+Quality Prediction: wiki (0.9995)
+Text:
+JSTOR Home  Access Check  Our systems have detected unusual traffic activity from your network. Please complete this reCAPTCHA to demonstrate that it's you making the requests and not a robot. If you are having trouble seeing or completing this challenge, this page may help. If you continue to experience issues, you can contact JSTOR support.  Block Reference: #225756ef-2844-11f1-9e74-a80b010ab7aa VID: # IP: 141.142.253.156 Date and time: Wed, 25 Mar 2026 12:14:12 GMT  Go back to JSTOR  ©2000- I...
+
+--- Example 9 ---
+Source: cc
+Quality Prediction: cc (1.0000)
+Text:
+首页 首页 新华社记者看北京 京华新声 要闻 政务 人事 廉政 京津冀协同 社会 文旅 科教 财经 视频 访谈 专题 图说新闻 北京频道  原创话剧《中国机车先驱》北京上演  2023年04月02日 07:52:33 | 来源： 新华网  　　4月1日，在北京交通大学，机械与电子控制工程学院的学生表演话剧《中国机车先驱》。  　　当日，由108名北京交通大学机电学院在读学生表演的原创话剧《中国机车先驱》在校内天佑会堂公演。据了解，该话剧情景再现了我国第一台大马力蒸汽机车设计者及监造者应尚才教授的人生轨迹，反映其“爱路报国”的精神追求。  　　新华社记者 任超 摄  　　4月1日，北京交通大学学生在舞台上表演话剧《中国机车先驱》。  　　当日，由108名北京交通大学机电学院在读学生表演的原创话剧《中国机车先驱》在校内天佑会堂公演。据了解，该话剧情景再现了我国第一台大马力蒸汽机车设计者及监造者应尚才教授的人生轨迹，反映其“爱路报国”的精神追求。  　　新华社记者 任超 摄  　　4月1日，在北京交通大学，机械与电子控制工程学院的学生表演话剧《中国机车先驱》。  　　当日，由108名北京交通...
+
+--- Example 10 ---
+Source: wiki
+Quality Prediction: wiki (0.9982)
+Text:
+92 'Jamie Marks Is Dead' Review: Carter Smith's Ghost Story 'Jamie Marks Is Dead' Review: Carter Smith's Ghost Story   • Plus Icon Film   • Plus Icon TV   • Plus Icon What To Watch   • Plus Icon Music   • Plus Icon Docs   • Plus Icon Digital & Gaming   • Plus Icon Global   • Plus Icon Awards Circuit   • Plus Icon Video   • Plus Icon What To Hear   • Got a Tip?   • Newsletters Switch edition between U.S. Edition Asia Edition Global Edition   • U.S.   • Asia   • Global Variety Variety Plus Icon 4e...
+
+--- Example 11 ---
+Source: cc
+Quality Prediction: cc (1.0000)
+Text:
+> 网站栏目导航 全球中文传媒   • 公众全民传媒   • 视频新闻   • 食品产业   • 时事新闻   • 社会观察   • 法制新闻   • 投诉报料   • 律师说法   • 民众舆情呼声   • 公民身边事件   • 公众形象展示 聚焦廉政法纪法制维权全民论坛政要论坛全民参政公众评论新闻调查关注教育中国检察新闻中国法院新闻企业公司新闻 案件追踪观察军事动态法治新闻国际新闻全民康养医药医疗残疾人农业农村全球财经新闻香港澳门台湾公共国际新闻 《求是》杂志发表习近平总书记重要文章《加快建设文化强国》 加快构建高质量就业服务体系 促进高校毕业生高质量充分就业 中共中央 国务院印发《加快建设农业强国规划（2024－2035年）》 投稿邮箱：3555333776@QQ.COM网络推广投稿点击进入>>>  ·[视频]衣柜里的秘密 ·[视频]深度关注丨春天里的科技盛宴 ·[视频]正风反腐在身边·记者百县行丨 烦心事变舒心事.. ·[视频]深度关注丨同心逐梦 ·[视频]天宫TV | 巳巳如意，开工大吉！ ·[视频]乐至记忆｜老照片里的旧时光 ·[视频]镜头对准！看《真心英雄》背后的国安故事...
+
+--- Example 12 ---
+Source: wiki
+Quality Prediction: wiki (0.9999)
+Text:
+Access Restricted  We're unable to allow access to this page at this time. If you believe this is an error, please try again later or contact support. {RM:000}...
+
+--- Example 13 ---
+Source: cc
+Quality Prediction: cc (1.0000)
+Text:
+﻿ BoxApps | Интерактивное задание | Живая и неживая природа  Пожалуйста, ожидайте, загружаем страницу...  Рус Бел ×  Живая и неживая природа  Разделить картинки на две группы "Живая природа" и "Неживая природа". Справка Развернуть Свернуть Открыть в новом окне  Интерактивное задание "Сортировка"  В данном задании нужно распределить карточки с мультимедийной информацией по группам согласно условию задания. Карточка может содержать текст, изображение или аудиофайл.  Для прохождения задания перетащ...
+
+--- Example 14 ---
+Source: wiki
+Quality Prediction: wiki (0.9837)
+Text:
+The Electric Tramway of SACRAMENTO Minas Gerais state BRAZIL  BY Allen Morrison  Sacramento is a small city in the hills north of the Rio Grande (Big River), which flows westward across southern Brazil toward Paraguay and Argentina. Its tramway was one of the most remote in Brazil: 400 km from the state capital, Belo Horizonte, 600 km from Rio de Janeiro, about halfway between São Paulo and the federal capital, Brasília [see map #1]. Much larger towns in the area - Uberaba, Uberlândia, Ribeirão ...
+
+--- Example 15 ---
+Source: cc
+Quality Prediction: cc (1.0000)
+Text:
+A VERDADE LIBERTAR-NOS-Á  CONFIAR NA INTUIÇÃO INTERNA E EM NÓS MESMOS __________________________ _______________________ _____ Buscar da verdade ... E a Verdade Libertar-nos-á!  Maria de Nazaré  2021-11-14  Maria de Nazaré  Por Maria Ivone Torres  14 de novembro de 2021      Maria de Nazaré    Maria de Nazaré é, sem dúvida, dentre as figuras de conhecimento público, uma das mais mencionadas, comemoradas, queridas etc.; é também uma das mais polemizadas porque vai do extremo da idolatria, sendo c...
+
+--- Example 16 ---
+Source: cc
+Quality Prediction: cc (1.0000)
+Text:
+• 0 īƮ     �ֱٺ���ǰ   • TOP   • DOWN   • HOME   • �α���   • ȸ������   • ��ٱ���   • �ֹ��������ȸ    • Battle Grounds   • Over Watch   • League Of Legends   • FIFA ONLINE 4 �˻� 1 / 1 ������ư ������ư   • ��ü ī�װ���   • ����PC   • ����PCGame   • ��ǰ/�ֺ����   • �¶��ΰ���   • PC�������   • �̺�Ʈ   • Ŀ�´�Ƽ     • �����ı�     • ���� & �亯   • ������/����/�����   • ����PC   • �����/��Ʈ��/�̴�PC   • ��Ʈ��/���/VR   • �귣��PC/���ο�/����   • PC�ֿ��ǰ   • �����   • PC�ֺ����/Ʃ��/��Ƽ�̵��   • PC������ġ   • PC�Ҹ�ǰ/����Ʈ��...
+
+--- Example 17 ---
+Source: wiki
+Quality Prediction: wiki (1.0000)
+Text:
+f911 Ann Coulter Endorses Donald Trump – The Bull Elephant The Bull Elephant   • Home   • About The Bull Elephant   • Fun Stuff   • Contact The Bull Elephant Latest Posts Will the Last Business to Leave Seattle Please... Sunday Memes LCRC has a new chair–Pio out! A Republic, If You Can Keep It. Meme of the Day James Talarico’s Bad Theology Court strikes down Section 8 housing mandate, casting...  The Bull Elephant    • Home   • About The Bull Elephant   • Fun Stuff   • Contact The Bull Elephant ...
+
+--- Example 18 ---
+Source: wiki
+Quality Prediction: wiki (0.9998)
+Text:
+Skip to main contentSkip to navigation 1/1 Skip to navigation Print subscriptions Newsletters Sign in   • US edition   • UK edition   • Australia edition   • Europe edition   • International edition The Guardian - Back to homeThe Guardian   • News   • Opinion   • Sport   • Culture   • Lifestyle     • View all News     • US news     • US politics     • World news     • Climate crisis     • Middle East     • Ukraine     • US immigration     • Soccer     • Business     • Environment     • Tech     ...
+
+--- Example 19 ---
+Source: cc
+Quality Prediction: cc (1.0000)
+Text:
+Skip Navigation Links   • الرئيسة   • المصطلحات   • المعجم البصري   • الاستفان   • الديوان   • اتصل بنا    •  ديوان اللغة العربية 1437 - 1444  معجم المصطلحات الكبير Skip Navigation Links   • الرئيسة   • المصطلحات   • المعجم البصري   • الاستفان   • الديوان   • اتصل بنا إسانة جِنْثانِية أسماء العلوم  الإسانة الجِنْثانِية إحدى فروع الإسانة، تعتمد على دراسة المجتمعات الحيّة والنظر فيها، وفي سلوكها البشري من أجل تحليل الحياة في المجتمعات القديمة، واستنتاج السلوك البشري السابق بشكل أفضل من خلال الأنما...
+
+--- Example 20 ---
+Source: wiki
+Quality Prediction: cc (1.0000)
+Text:
+Verification required  We just need to check something, please follow the instructions below  Please use your browser's back button if not redirected...
+
