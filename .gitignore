@@ -1,5 +1,6 @@
 CC-MAIN-2023-50/
 *.bin
+.ruff_cache
 
 nav
 tags

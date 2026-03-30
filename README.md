@@ -11,6 +11,43 @@ If you see any issues with the assignment handout or code, please feel free to
 raise a GitHub issue or open a pull request with a fix. Any improvements of the existing codebase
 (including adaptations from Stanford to UHM workflows, modifications of PDF, etc) will be rewarded with extra points.
 
+## Test Results
+
+```bash
+===================================================================== test session starts ======================================================================
+platform linux -- Python 3.13.7, pytest-8.3.5, pluggy-1.5.0 -- /ece405-assignment2-data/.venv/bin/python
+cachedir: .pytest_cache
+rootdir: /ece405-assignment2-data
+configfile: pytest.ini
+plugins: jaxtyping-0.3.2, hydra-core-1.3.2
+collected 21 items                                                                                                                                             
+
+tests/test_deduplication.py::test_exact_line_deduplication PASSED                                                                                        [  4%]
+tests/test_deduplication.py::test_minhash_deduplication_exact_duplicates PASSED                                                                          [  9%]
+tests/test_deduplication.py::test_minhash_deduplication_fuzzy_duplicates PASSED                                                                          [ 14%]
+tests/test_extract.py::test_extract_text_from_html_bytes PASSED                                                                                          [ 19%]
+tests/test_langid.py::test_identify_language_english PASSED                                                                                              [ 23%]
+tests/test_langid.py::test_identify_language_chinese_simplified PASSED                                                                                   [ 28%]
+tests/test_pii.py::test_mask_emails_single PASSED                                                                                                        [ 33%]
+tests/test_pii.py::test_mask_emails_multiple PASSED                                                                                                      [ 38%]
+tests/test_pii.py::test_mask_emails_existing_string PASSED                                                                                               [ 42%]
+tests/test_pii.py::test_mask_phones_single PASSED                                                                                                        [ 47%]
+tests/test_pii.py::test_mask_ips PASSED                                                                                                                  [ 52%]
+tests/test_quality.py::test_classify_quality PASSED                                                                                                      [ 57%]
+tests/test_quality.py::test_gopher_valid_input PASSED                                                                                                    [ 61%]
+tests/test_quality.py::test_gopher_less_than_50_non_symbol_words PASSED                                                                                  [ 66%]
+tests/test_quality.py::test_gopher_more_than_100000_non_symbol_words PASSED                                                                              [ 71%]
+tests/test_quality.py::test_gopher_average_word_length_less_than_3 PASSED                                                                                [ 76%]
+tests/test_quality.py::test_gopher_average_word_length_greater_than_10 PASSED                                                                            [ 80%]
+tests/test_quality.py::test_gopher_more_than_30_percent_lines_ending_with_ellipsis PASSED                                                                [ 85%]
+tests/test_quality.py::test_gopher_less_than_80_percent_words_with_alphabetic_character PASSED                                                           [ 90%]
+tests/test_toxicity.py::test_classify_nsfw PASSED                                                                                                        [ 95%]
+tests/test_toxicity.py::test_classify_toxic_speech PASSED                                                                                                [100%]
+
+----------------------------------------- generated xml file: /ece405-assignment2-data/test_results.xml ------------------------------------------
+====================================================================== 21 passed in 9.61s ======================================================================
+```
+
 ## Setup
 
 This directory is organized as follows:
